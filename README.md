@@ -1,6 +1,7 @@
 # Asian-Unemployment-Rate-Project-Excel-and-Tableau-
 I will clean, analyze, and visualize my Asian Unemployment Rate dataset in this project using Excel and Tableau.
 This project aims to determine the relationship between educational level, geography, and unemployment rate. 
+# [View my dashboard](https://public.tableau.com/app/profile/alissa.dao/viz/WhatAccountsForTheLowestUnemploymentRateOfTheAsianRaceInAmerica/Dashboard1)
 
 ## 1. About the project: 
 ###### a. Some highlighted features that I will use when I work with Excel: 
